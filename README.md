@@ -38,10 +38,11 @@ To install the Simple Notes Chrome extension:
 
 If you find any issues or have feature requests, please open an issue on GitHub.
 
-## License
+## License for Simple Notes - Chrome Extension
+Permission is hereby granted to use this code for personal or educational purposes, provided that credit is given to the original author, Raqeeb Anjum.
 
-This project is licensed under a custom license. You are free to use this code for personal or educational purposes, but you must not take credit for the original work. Distribution of modified versions or use of this project in other projects requires permission from the original author.
+Redistribution of modified versions or use of this code in other projects requires explicit permission from the original author. The code or any part thereof must not be used for commercial purposes without prior written consent from the original author.
 
-## Author
+The original author retains all rights to the code and is not liable for any use or misuse of the code by others.
 
-- **Raqeeb Anjum** - [GitHub Profile](https://github.com/raqeebanjum)
+© 2024 Raqeeb Anjum. All rights reserved.
